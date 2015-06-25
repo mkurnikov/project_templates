@@ -9,5 +9,5 @@ python setup.py install
 
 Usage: 
 ```
-    makeproject PROJECT_NAME [--template kaggle]
+makeproject PROJECT_NAME [--template kaggle]
 ```
