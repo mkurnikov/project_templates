@@ -5,6 +5,5 @@ import numpy as np
 
 import settings
 
-
 if __name__ == '__main__':
-    dataset = pd.read_csv(settings.TRAIN_FILE)
+    original_dataset = pd.read_csv(settings.TRAIN_FILE)
