@@ -1,4 +1,6 @@
-from __future__ import division, absolute_import, print_function, unicode_literals
+from __future__ import division, print_function
+# noinspection PyUnresolvedReferences
+from py3compatibility import *
 
 import os
 ### project root directory, for support to relative paths
